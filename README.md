@@ -123,10 +123,3 @@ flutter run
 
 flutter test
 
-📹 Vídeo Demonstrativo
-
-👉 (Cole aqui o link do YouTube)
-
-💻 Repositório
-
-👉 (Cole aqui o link do GitHub)
