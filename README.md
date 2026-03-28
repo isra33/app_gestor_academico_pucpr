@@ -123,4 +123,7 @@ flutter run
 
 flutter test
 
+🎥 Video do projeto explicativo
+https://www.youtube.com/watch?v=qfULxpUf1pE
+
  
